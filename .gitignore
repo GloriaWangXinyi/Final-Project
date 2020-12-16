@@ -1,0 +1,7 @@
+__pycache__
+.git
+.vscode
+food_kind.sqlite
+restaurant_info.sqlite
+screws.py
+temp-plot.html
